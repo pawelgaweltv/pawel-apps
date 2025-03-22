@@ -1,16 +1,18 @@
 # pawel-apps
-Proste i użyteczne aplikacje w Python do tty lub terminala linuxa.
+Proste i użyteczne aplikacje w Pythonie do TTY lub terminala Linuxa.
 
-Zezwalam na dowolną edycję kodu oraz dowolne kożystanie!
+Zezwalam na dowolną edycję kodu oraz dowolne korzystanie!
+
 Pawel-Music:
-- strzałkami zmieniasz moment odtwarzania muzyki
-- spacja pauza/odpałzowanie
-- Ctrl + C - zatrzymanie programu
-- dostępne proponowane utwory
-- dostępna funkcja szukania wystarczy Tytuł i przepisanie ID z gotowo wyświetlonych!
+- Strzałkami zmieniasz moment odtwarzania muzyki.
+- Spacja – pauza/wznowienie.
+- Ctrl + C – zatrzymanie programu.
+- Dostępne proponowane utwory.
+- Dostępna funkcja szukania – wystarczy wpisać tytuł i przepisać ID z gotowych wyników!
 
-Potrzebne Zależności do Pawel-Music: python, curses, mpv, yt-dlp.
+Potrzebne zależności do Pawel-Music:
+python, curses, mpv, yt-dlp.
 
 
 
-Projekt jest ciągle aktualizowany!
+Projekt jest ciągle aktualizowany! 🚀
